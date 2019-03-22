@@ -27,7 +27,7 @@ python manage.py runtest demotest.http_demo
 #### 环境准备
 
 * 下载最新的QTAIDE，进行安装
-* 通过QTAIDE指定git路径https://github.com/qtacore/QT4SDemo.git，导入工程
+* 通过QTAIDE指定git路径https://github.com/qtacore/QT4SDemo.git ，导入工程
 
 #### 编写用例
 
