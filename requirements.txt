@@ -1,2 +1,2 @@
-qt4s
 qtaf
+https://codeload.github.com/qtacore/QT4S/zip/master
